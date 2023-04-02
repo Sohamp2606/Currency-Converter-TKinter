@@ -1,2 +1,8 @@
 # Currency-Converter
-simple currency converter GUI 
+ currency converter GUI APP
+ 
+ <br />
+ 
+ Choser currency code 
+ 
+ 
